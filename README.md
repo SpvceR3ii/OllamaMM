@@ -12,6 +12,9 @@ Anyways... let's go through the features!
 - Model Pulling: Pull new models, and view information on them!
 - Model Searching: Search for the model you want, quickly and efficiently.
 
+![image](https://github.com/user-attachments/assets/004eade3-2d2c-4995-8f78-9e7c7cc63a63)
+
+
 ## Installation:
 
 First, you gotta clone the repository.
